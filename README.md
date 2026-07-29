@@ -6,7 +6,7 @@
 
 ## 📽️ Demo Video
 
-https://github.com/vishalgangwar8218-creator/FinTrackApp/blob/master/demo.mp4
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 > 💡 *Replace the link above with your actual GIF or embedded YouTube/Vimeo video link.*
 
