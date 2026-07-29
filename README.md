@@ -6,7 +6,7 @@
 
 ## 📽️ Demo Video
 
-![FinTrack AI Demo](https://github.com/vishalgangwar8218-creator/FinTrackApp/blob/master/demo.mp4)
+https://github.com/vishalgangwar8218-creator/FinTrackApp/blob/master/demo.mp4
 
 > 💡 *Replace the link above with your actual GIF or embedded YouTube/Vimeo video link.*
 
