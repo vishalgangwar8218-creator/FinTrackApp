@@ -18,7 +18,7 @@
 * 🏷️ **Smart Categorization:** Automatically assigns expenses to categories (e.g., *Food & Dining*, *Groceries*, *Transportation*, *Medical*).
 * 🤖 **Gemini AI Financial Advisor:** Integrated AI assistant that analyzes your recent spending trends and answers questions in English or Hinglish.
 * ☁️ **Cloud-Native Backend:** Built on a serverless architecture using **AWS Lambda**, **Amazon S3**, and **Amazon DynamoDB**.
-* 📱 **Modern Android UI:** Clean user interface supporting ViewBinding, MVVM principles, and custom fonts.
+* 📱 **Modern Android UI:** Clean user interface interface using Jetpack Compose, following MVVM architecture, Material 3 Design, and custom typography.
 
 ---
 
@@ -27,7 +27,7 @@
 ### **Mobile Frontend**
 * **Language:** Kotlin
 * **Architecture:** MVVM Pattern
-* **UI Components:** RecyclerView, View Binding, Lottie Animations, Poppins Font
+* **UI Components:** Built the UI using LazyColumn, Navigation Compose, Material 3, State Management, Cards, Dialogs, and Custom Composables.
 * **Networking:** Retrofit / OkHttp
 
 ### **Backend & Cloud Infrastructure**
